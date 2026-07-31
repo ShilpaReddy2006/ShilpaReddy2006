@@ -114,7 +114,7 @@ https://url-shortener-project-1-7men.onrender.com
 **shilpareddy24871@gmail.com**
 
 💼 LinkedIn
-https://www.linkedin.com/in/shilpa-reddy-0266272a5
+https://www.linkedin.com/in/yerravalla-shilpa-reddy-0266272a5/
 
 💻 GitHub
 https://github.com/ShilpaReddy2006
