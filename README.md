@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yerravalla Shilpa Reddy
+# Hi, I'm Yerravalla Shilpa Reddy
 
 ### Java Full Stack Developer | Spring Boot | React | Cloud | Docker
 
@@ -13,7 +13,7 @@ I enjoy transforming ideas into real-world software by combining modern frontend
 - 🎓 B.Tech Computer Science Student (2023–2027)
 - 💻 Aspiring Java Full Stack Developer
 - 🌱 Currently learning Advanced Spring Security, Microservices & System Design
-- 🧩 Solved 100+ DSA problems on LeetCode
+- 🧩 Solved 200+ DSA problems on LeetCode
 - ☁️ Interested in Cloud Deployment, Backend Architecture and Scalable Systems
 
 ---
@@ -104,7 +104,7 @@ https://url-shortener-project-1-7men.onrender.com
 -  Dockerized backend services
 -  Integrated React frontend with Spring Boot backend
 -  Deployed applications using Render, Railway and Vercel
--  Solved 100+ DSA problems on LeetCode
+-  Solved 200+ DSA problems on LeetCode
 
 ---
 
